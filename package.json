@@ -1,0 +1,17 @@
+{
+  "name": "front-end-slideshow",
+  "version": "0.0.0",
+  "description": "Architectures, tasks runners and power ranger's front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jmlavoier/front-end-slideshow.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "0c8ee537ae807e5f64b1d02a179e4654e0616d8a"
+}
